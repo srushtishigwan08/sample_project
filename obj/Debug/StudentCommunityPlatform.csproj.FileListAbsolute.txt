@@ -1,0 +1,148 @@
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\StudentCommunityPlatform.dll.config
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\StudentCommunityPlatform.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\StudentCommunityPlatform.pdb
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\csc.exe
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\csc.exe.config
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\csc.rsp
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\csi.exe
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\csi.exe.config
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\csi.rsp
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.AppContext.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Console.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Globalization.Calendars.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.IO.Compression.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Net.Http.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Net.Sockets.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.ValueTuple.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Xml.XPath.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\vbc.exe
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\vbc.exe.config
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\vbc.rsp
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\VBCSCompiler.exe
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\Antlr3.Runtime.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\AspNet.ScriptManager.jQuery.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\Newtonsoft.Json.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\System.Web.Optimization.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\WebGrease.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\System.Web.Optimization.xml
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\Newtonsoft.Json.xml
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\Antlr3.Runtime.pdb
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\obj\Debug\StudentCommunityPlatform.csprojAssemblyReference.cache
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\obj\Debug\StudentCommunityPlatform.csproj.CoreCompileInputs.cache
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\obj\Debug\StudentCommunityPlatform.csproj.CopyComplete
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\obj\Debug\StudentCommunityPlatform.dll
+C:\Projects 2020\Projects 2020\Finolex BE\StudentCommunityPlatform\StudentCommunityPlatform\obj\Debug\StudentCommunityPlatform.pdb
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\obj\Debug\StudentCommunityPlatform.csproj.CoreCompileInputs.cache
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\StudentCommunityPlatform.dll.config
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\StudentCommunityPlatform.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\StudentCommunityPlatform.pdb
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\csc.exe
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\csc.exe.config
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\csc.rsp
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\csi.exe
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\csi.exe.config
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\csi.rsp
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\Microsoft.Managed.Core.targets
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.AppContext.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Collections.Immutable.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Console.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Globalization.Calendars.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.IO.Compression.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.IO.FileSystem.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Net.Http.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Net.Sockets.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Reflection.Metadata.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.ValueTuple.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Xml.XmlDocument.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Xml.XPath.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\vbc.exe
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\vbc.exe.config
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\vbc.rsp
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\VBCSCompiler.exe
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\roslyn\VBCSCompiler.exe.config
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\Antlr3.Runtime.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\AspNet.ScriptManager.bootstrap.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\AspNet.ScriptManager.jQuery.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\Microsoft.ScriptManager.WebForms.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\Microsoft.Web.Infrastructure.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\Newtonsoft.Json.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\System.Web.Optimization.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\WebGrease.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\System.Web.Optimization.xml
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\Newtonsoft.Json.xml
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\Antlr3.Runtime.pdb
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\obj\Debug\StudentCommunityPlatform.csproj.CopyComplete
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\obj\Debug\StudentCommunityPlatform.dll
+C:\project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\obj\Debug\StudentCommunityPlatform.pdb
+C:\Project 2023\StudentsCommunityPlatform\version_A\StudentCommunityPlatform\StudentCommunityPlatform\obj\Debug\StudentCommunityPlatform.csproj.AssemblyReference.cache
